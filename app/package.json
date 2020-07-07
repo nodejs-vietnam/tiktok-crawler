@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "electron": "^8.2.0"
+    "electron": "^8.2.4"
   },
   "dependencies": {
     "node-downloader-helper": "^1.0.12",
